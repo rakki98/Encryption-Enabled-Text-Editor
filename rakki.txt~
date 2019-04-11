@@ -1,0 +1,10 @@
+ant -f /home/rakshith/NetBeansProjects/Project -Djavac.includes=project/demo.java -Dnb.internal.action.name=run.single -Drun.class=project.demo run-single
+init:
+Deleting: /home/rakshith/NetBeansProjects/Project/build/built-jar.properties
+deps-jar:
+Updating property file: /home/rakshith/NetBeansProjects/Project/build/built-jar.properties
+Compiling 1 source file to /home/rakshith/NetBeansProjects/Project/build/classes
+compile-single:
+run-single:
+project.StyleChange.execute()
+project.StyleChange.execute()
